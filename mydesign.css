@@ -1,0 +1,69 @@
+div{
+    text-align: center; 
+}
+.one{
+    width: 33.33%;
+    border: 1px ;
+    height: 150px;
+    margin: auto;
+    float: left;
+    box-sizing: border-box;
+    display: block;
+    padding: 40px;
+}
+.two{
+    width: 33.33%;
+    border: 1px ;
+    height: 180px;
+    float: left;
+    box-sizing: border-box;
+    display: block;
+    padding: 40px
+}
+.three{
+    width: 33.33%;
+    border: 1px ;
+    height: 200px;
+    float: left;
+    box-sizing: border-box;
+    display: block;
+    padding: 40px
+}
+.cls{
+    clear: both;
+}
+#one{
+    background-color: antiquewhite;
+}
+#two{
+    background-color: rgb(41, 41, 146);
+}
+#three{
+    background-color: gray;
+}
+#four{
+    background-color: rgb(74, 74, 233);
+}
+#five{
+    background-color: peachpuff;
+}
+#one:hover{
+    background-color: crimson;
+transform: skew(5deg,5deg);
+}
+#two:hover{
+    background-color: crimson;
+transform: skew(5deg,5deg);
+}
+#three:hover{
+    background-color: crimson;
+transform: skew(5deg,5deg);
+}
+#four:hover{
+    background-color: crimson;
+transform: skew(5deg,5deg);
+}
+#five:hover{
+    background-color: crimson;
+transform: skew(5deg,5deg);
+}
